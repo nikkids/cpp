@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1704457922 source:d:\strukdat\pemilu\childpemilih.cpp
+	"ChildPemilih.h"
+
+1704456084 d:\strukdat\pemilu\childpemilih.h
+	<iostream>
+
+1704634197 source:d:\strukdat\pemilu\listrelasi.cpp
+	"listrelasi.h"
+
+1704306266 d:\strukdat\pemilu\listrelasi.h
+	"listrelasi.h"
+	"ChildPemilih.h"
+	<iostream>
+
+1704627885 source:d:\strukdat\pemilu\main.cpp
+	<iostream>
+	"ChildPemilih.h"
+	"ParentCalon.h"
+
+1704627138 d:\strukdat\pemilu\parentcalon.h
+	<iostream>
+	"listrelasi.h"
+
+1704773706 source:d:\strukdat\pemilu\parentcalon.cpp
+	"ParentCalon.h"
+
